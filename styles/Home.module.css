@@ -120,3 +120,7 @@
     flex-direction: column;
   }
 }
+
+.bg-image {
+  opacity: 0.9;
+}
